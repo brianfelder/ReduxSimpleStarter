@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+#ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
@@ -23,3 +23,8 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 	> npm install
 	> npm start
 ```
+
+# Troubleshooting
+To get past issue of starting webpack-dev-server on linux for this repo,
+https://github.com/StephenGrider/ReduxSimpleStarter/issues/22#issuecomment-209459894
+(sudo apt install nodejs-legacy)
